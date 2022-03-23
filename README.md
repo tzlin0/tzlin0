@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tzlin0
+- 👋 Hi, I’m Cheng-Hu Lin
+- I'm a master's student at University of Washington
 - I’m interested in coding in Python/ Java
 - I’m currently learning computer vision related subjects
 - I’m looking to collaborate on CV related projects. 
